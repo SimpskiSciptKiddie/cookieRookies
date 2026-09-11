@@ -1,0 +1,9 @@
+[33mcommit ca0574812370ae363f05e0154859d8628bcc4a30[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mViggo[m[33m, [m[1;31morigin/Viggo[m[33m)[m
+Author: Vilgot5 <skillojonsson@gmail.com>
+Date:   Fri Sep 11 11:14:35 2026 +0200
+
+    min ändring
+
+ cookieRookies |  1 [32m+[m
+ index.html    | 11 [32m+++++++++++[m
+ 2 files changed, 12 insertions(+)
