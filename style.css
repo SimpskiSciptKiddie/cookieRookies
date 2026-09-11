@@ -1,10 +1,17 @@
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-body{
-    font-family:Arial;
-    background-color:white;
-    color:black;
+body {
+  font-family: Arial;
+  background-color: white;
+  color: black;
+}
+
+ul.navBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background: red;
 }
