@@ -1,3 +1,29 @@
+# CookieRookies
+
+## Om laget
+
+CookieRookies är vårt lag i ChasHack for rookies.
+
+Medlemmar:
+
+- Sabah
+- Varvara
+- Tony
+- Viggo
+- Simon
+
+## Om sidan
+
+Det här är CookieRookies hemsida. Här presenterar vi laget och testar HTML,
+CSS och JavaScript tillsammans.
+
+## Publicerad sida
+
+[Öppna CookieRookies på GitHub Pages](https://simpskisciptkiddie.github.io/cookieRookies/)
+
+## LinkedIn
+
+Länk till LinkedIn-inlägget läggs till efter att inlägget har publicerats.
 # ChasHack starter
 
 Det här är start-repot. Här ligger tre tomma filer som blir lagets hemsida
