@@ -22,9 +22,8 @@ CSS och JavaScript tillsammans.
 [Öppna CookieRookies på GitHub Pages](https://simpskisciptkiddie.github.io/cookieRookies/)
 
 ## LinkedIn
-
-Länk till LinkedIn-inlägget läggs till efter att inlägget har publicerats.
-# ChasHack starter
+https://lnkd.in/p/dPEwf7uv
+#ChasHack starter
 
 Det här är start-repot. Här ligger tre tomma filer som blir lagets hemsida
 under dagen:
