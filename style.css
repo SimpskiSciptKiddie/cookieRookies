@@ -1,0 +1,34 @@
+body {
+    background: #e272cd;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Make sizing include padding/border so widths are easier to reason about */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto; /* centrerar horisontellt */
+    padding: 0 16px; /* inre luft vid sidor */
+}
+
+.card {
+    background: rgba(110, 13, 90, 0.9);
+    padding: 20px; /* inre avstånd */
+    border-radius: 8px;
+    margin: 16px 0; /* yttre avstånd */
+}
+
+h1 {
+    color: rgb(28, 25, 33);
+    font-size: 3.5rem; /* mer responsivt än en fast px */
+}
+
+@media (max-width: 600px) {
+    .container { padding: 0 30px; }
+    h1 { font-size: 2.5rem; }
+}
